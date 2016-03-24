@@ -1,0 +1,10 @@
+What happens when you initialize a repository? Why do you need to do it?
+
+When you initialize a repository a repository is made. You need to do it because without doing it it wouldn't be made. 
+
+
+How is the staging area different from the working directory and the repository? What value do you think it offers?
+
+I don't fucking know actually. I guess I don't understand these concepts yet.
+
+Or wait I guess it's in between the repository and the working directory. The working directory is the stuff you're working on, and the staging area is what you're going to save into the repository. and the repository is the files that you will submit to a commit.
