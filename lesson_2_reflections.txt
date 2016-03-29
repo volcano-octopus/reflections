@@ -8,3 +8,28 @@ How is the staging area different from the working directory and the repository?
 I don't fucking know actually. I guess I don't understand these concepts yet.
 
 Or wait I guess it's in between the repository and the working directory. The working directory is the stuff you're working on, and the staging area is what you're going to save into the repository. and the repository is the files that you will submit to a commit.
+
+
+How can you use the staging area to make sure you have one commit per logical change?
+
+Just add one fucking file to the fucking staging area fuck! at a time. one at a fucking time!
+
+
+What are some situations when branches would be helpful in keeping your history organized? How would branches help?
+
+It would allow you to like do a different version of something and then to work on it and if you wanted to try something else based off of the same base code then you could do that tooooooooo.
+
+
+How do the diagrams help you visualize the branch structure?
+
+The diagrams help you visualize the branch structure by making the branch structure visual. Fucks sake why are you asking me these questions?!?!?! I feel like I'm in high school. 
+
+
+What is the result of merging two branches together? Why do we represent it in the diagram the way we do?
+
+The result of merging the two branches together is keeping the changes that you wanted to keep or whatever and everything all works and fucking whatever. And you do it in the diagram the way that you do because it helps to conceptualize what the fuck is happening.
+
+
+What are the pros and cons of Git’s automatic merging vs. always doing merges manually?
+
+Automatic merging shows you the conflicts and shit. Doing merges manually takes more fucking time.
