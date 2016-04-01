@@ -6,3 +6,8 @@ When you are working on a different computer for example.
 Why might you want to always pull changes manually rather than having Git automatically stay up to date with your remote repository?
 
 Because other people might be working on the project. I'm just making shit up I do'nt like doing these reflections. I learn by doing. I'll reflect on my own time.
+
+
+Describe the differences between forks, clones, and branches. When would you use one instead of another?
+
+Forks fork from projects and you can like work on it without fucking with other epoples shit. Clones duplicate it all up in your system. Branches are like a branch off of your project that you can fuck around with and experiment on. Like, forks pull the whole project. Whatever just google ittttt.
