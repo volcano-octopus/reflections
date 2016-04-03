@@ -11,3 +11,8 @@ Because other people might be working on the project. I'm just making shit up I 
 Describe the differences between forks, clones, and branches. When would you use one instead of another?
 
 Forks fork from projects and you can like work on it without fucking with other epoples shit. Clones duplicate it all up in your system. Branches are like a branch off of your project that you can fuck around with and experiment on. Like, forks pull the whole project. Whatever just google ittttt.
+
+
+What is the benefit of having a copy of the last known state of the remote stored locally?
+
+It allows you to work on stuff offline in a more up to date verison.
