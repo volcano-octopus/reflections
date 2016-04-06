@@ -16,3 +16,13 @@ Forks fork from projects and you can like work on it without fucking with other 
 What is the benefit of having a copy of the last known state of the remote stored locally?
 
 It allows you to work on stuff offline in a more up to date verison.
+
+
+How would you collaborate without using Git or GitHub? What would be easier, and what would be harder?
+
+You would sit at a table and yell across the table at each other. It would be way easier.
+
+
+When would you want to make changes in a separate branch rather than directly in master? What benefits does each approach have?
+
+Separate branch when you wanna not fuck up the master. Separate: you won't fuck up master. Master: you can not deal with potential conflicts or some shit.
